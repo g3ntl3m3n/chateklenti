@@ -42,70 +42,70 @@ class AcSettingsTableSeeder extends Seeder
                     'id' => 4,
                     's_name' => 'assets_path',
                     's_value' => 'assets',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 4 => 
                 array (
                     'id' => 5,
                     's_name' => 'users_table',
                     's_value' => 'users',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 5 => 
                 array (
                     'id' => 6,
                     's_name' => 'users_col_id',
                     's_value' => 'id',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 6 => 
                 array (
                     'id' => 7,
                     's_name' => 'users_col_email',
                     's_value' => 'email',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 7 => 
                 array (
                     'id' => 8,
                     's_name' => 'site_name',
                     's_value' => 'AddChat',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 8 => 
                 array (
                     'id' => 9,
                     's_name' => 'site_logo',
                     's_value' => NULL,
-                    'dt_updated' => '2019-09-06 08:25:52',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 9 => 
                 array (
                     'id' => 10,
                     's_name' => 'chat_icon',
                     's_value' => NULL,
-                    'dt_updated' => '2019-09-06 08:24:20',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 10 => 
                 array (
                     'id' => 11,
                     's_name' => 'notification_type',
                     's_value' => '0',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 11 => 
                 array (
                     'id' => 12,
                     's_name' => 'footer_text',
-                    's_value' => 'AddChat | by Classiebit',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    's_value' => 'Ayzasoft | Chat',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
                 12 => 
                 array (
                     'id' => 13,
                     's_name' => 'footer_url',
-                    's_value' => 'https://classiebit.com/addchat-laravel-pro',
-                    'dt_updated' => '2019-09-19 10:22:49',
+                    's_value' => 'https://ayzasoft.com/',
+                    'dt_updated' => '2020-05-27 23:22:49',
                 ),
             ));
         }
