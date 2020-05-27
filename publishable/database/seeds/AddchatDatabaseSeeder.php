@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use Classiebit\Addchat\Traits\Seedable;
+use g3ntl3m3n\Addchat\Traits\Seedable;
 
 class AddchatDatabaseSeeder extends Seeder
 {
