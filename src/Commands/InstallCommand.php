@@ -1,14 +1,14 @@
 <?php
 
-namespace Ayzamodul\Addchat\Commands;
+namespace g3ntl3m3n\Addchat\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
 use Intervention\Image\ImageServiceProviderLaravel5;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Process\Process;
-use Ayzamodul\Addchat\Traits\Seedable;
-use Ayzamodul\Addchat\AddchatServiceProvider;
+use g3ntl3m3n\Addchat\Traits\Seedable;
+use g3ntl3m3n\Addchat\AddchatServiceProvider;
 
 class InstallCommand extends Command
 {

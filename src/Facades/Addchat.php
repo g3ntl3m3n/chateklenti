@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayzamodul\Addchat\Facades;
+namespace g3ntl3m3n\Addchat\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

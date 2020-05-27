@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayzamodul\Addchat\Models;
+namespace g3ntl3m3n\Addchat\Models;
 use Illuminate\Database\Eloquent\Model;
 use DB;
 

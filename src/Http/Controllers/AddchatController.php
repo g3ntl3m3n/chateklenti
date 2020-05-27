@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayzamodul\Addchat\Http\Controllers;
+namespace g3ntl3m3n\Addchat\Http\Controllers;
 
 use App\Http\Controllers\Controller; 
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayzamodul\Addchat;
+namespace g3ntl3m3n\Addchat;
 
 use Illuminate\Filesystem\Filesystem;
 

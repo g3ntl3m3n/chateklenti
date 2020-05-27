@@ -1,14 +1,14 @@
 <?php
 
-namespace Classiebit\Addchat;
+namespace g3ntl3m3n\Addchat;
 
 use Illuminate\Foundation\AliasLoader;
-use Ayzamodul\Addchat\Facades\Addchat as AddchatFacade;
+use g3ntl3m3n\Addchat\Facades\Addchat as AddchatFacade;
 
 use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;
 use Illuminate\Routing\Router;
 
-use  Ayzamodul\Addchat\Commands\InstallCommand;
+use  g3ntl3m3n\Addchat\Commands\InstallCommand;
 use Config;
 
 class AddchatServiceProvider extends ServiceProvider

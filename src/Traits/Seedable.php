@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayzamodul\Addchat\Traits;
+namespace g3ntl3m3n\Addchat\Traits;
 
 trait Seedable
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-use Ayzamodul\Addchat\Facades\Addchat;
+use g3ntl3m3n\Addchat\Facades\Addchat;
 
 /*
 |--------------------------------------------------------------------------
@@ -10,13 +10,13 @@ use Ayzamodul\Addchat\Facades\Addchat;
 |
 */
 
-$namespace = '\Ayzamodul\Addchat\Http\Controllers';
+$namespace = '\g3ntl3m3n\Addchat\Http\Controllers';
 Route::group([
     'namespace' => $namespace,
     'as'    => 'addchat.'
 ], function() {
 
-    $namespace = '\Ayzamodul\Addchat\Http\Controllers';
+    $namespace = '\g3ntl3m3n\Addchat\Http\Controllers';
     // API ROUTES
     Route::prefix('addchat_api')->group(function () use($namespace) {
         $controller = $namespace."\ApiController";

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayzamodul\Addchat\Http\Controllers;
+namespace g3ntl3m3n\Addchat\Http\Controllers;
 
 
 use Illuminate\Http\Response;
@@ -10,9 +10,9 @@ use Illuminate\Support\Facades\Crypt;
 use App\Http\Controllers\Controller; 
 
 use Illuminate\Http\Request;
-use Facades\Ayzamodul\Addchat\Addchat;
+use Facades\g3ntl3m3n\Addchat\Addchat;
 use Auth;
-use Ayzamodul\Addchat\Models\AddchatModel;
+use g3ntl3m3n\Addchat\Models\AddchatModel;
 use Validator;
 
 
